@@ -22,7 +22,7 @@ import (
 	"sync/atomic"
 	"syscall"
 
-	"linux.xidian.edu.cn/git/XDU_ACM_ICPC/XDOJ-next/XDOJudged/siginfo"
+	"github.com/xdu-icpc/siginfo"
 )
 
 func demux() {

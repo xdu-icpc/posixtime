@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"linux.xidian.edu.cn/git/XDU_ACM_ICPC/XDOJ-next/XDOJudged/posixtime"
+	"github.com/xdu-icpc/posixtime"
 )
 
 func TestGetTime(t *testing.T) {

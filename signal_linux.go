@@ -26,7 +26,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"linux.xidian.edu.cn/git/XDU_ACM_ICPC/XDOJ-next/XDOJudged/siginfo"
+	"github.com/xdu-icpc/siginfo"
 )
 
 // In Linux, sigwaitinfo is just a special case of rt_sigtimedwait,
